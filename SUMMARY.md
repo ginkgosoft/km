@@ -1,3 +1,3 @@
 # Table of contents
 
-* [How to install and run docker containers using docker-compose](README.md)
+* [Install using Docker Compose](README.md)
