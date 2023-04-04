@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Install using Docker Compose](README.md)
+* [List egress IP and CIDR using the oc get hostsubnet command](README.md)
