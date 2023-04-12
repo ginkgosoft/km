@@ -20,7 +20,7 @@
     * [Approve Invoice](access-to-getinvoice/review-invoice/approve-invoice.md)
     * [Disapprove Invoice](access-to-getinvoice/review-invoice/disapprove-invoice.md)
     * [Reject Invoice](access-to-getinvoice/review-invoice/reject-invoice.md)
-    * [Unrejected Invoice](access-to-getinvoice/review-invoice/unrejected-invoice.md)
+    * [Unrejected Invoice](access-to-getinvoice/review-invoice/disreject-invoice.md)
     * [Review Invoice Configure the number and level of Approvers](access-to-getinvoice/review-invoice/review-invoice-configure-the-number-and-level-of-approvers.md)
     * [Review Invoice, Set the department and Order of approvers](access-to-getinvoice/review-invoice/review-invoice-set-the-department-and-order-of-approvers.md)
   * [SEND TO BUYER](access-to-getinvoice/send-to-buyer/README.md)

@@ -2,4 +2,4 @@
 
 The graph shows the transaction as a monthly basis for the 12 months.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption><p><em>Graph show transactions of each month</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption><p><em>Graph show transactions of each month</em></p></figcaption></figure>
