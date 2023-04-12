@@ -12,7 +12,7 @@ Approver Level 1:
 
 <mark style="color:red;">The list of e-invoicing will not move to the next level without the approval of the pre-level.</mark>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p><em>Review Invoice – Level 2 Approver Screen</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p><em>Review Invoice – Level 2 Approver Screen</em></p></figcaption></figure>
 
 Approver Level 2:
 
@@ -22,7 +22,7 @@ Approver Level 2:
 
 <mark style="color:red;">The list of e-invoicing will not move to the next level without the approval of the pre-level.</mark>
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption><p><em>Review Invoice - Level 3 Approver Screen</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><em>Review Invoice - Level 3 Approver Screen</em></p></figcaption></figure>
 
 Level 3 Approver:
 
@@ -30,11 +30,11 @@ Level 3 Approver:
 
 \- The list will display on the menu “Send to Buyer” and “Send to RD”
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption><p><em>Send to Buyer – Approved all levels</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p><em>Send to Buyer – Approved all levels</em></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p><em>Send to RD – Approved all levels</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p><em>Send to RD – Approved all levels</em></p></figcaption></figure>
 
 In case of Reject or Reject All, the e-invoicing list will display on the screen of the approver who rejects in “Status: Rejected”, Approver can click “Unreject” status to clear an item. The rejected item will not display on the menu “Send to Buyer” and “Send to RD”.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p><em>Review Invoice – Status: Rejected</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><em>Review Invoice – Status: Rejected</em></p></figcaption></figure>
 
