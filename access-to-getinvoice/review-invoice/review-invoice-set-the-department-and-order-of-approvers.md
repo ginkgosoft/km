@@ -12,8 +12,8 @@ Administrators can define departments and the order of approvers. All department
 
 | ลำดับ |                   คอลัมน์                   |               รายละเอียด              |
 | :---: | :-----------------------------------------: | :-----------------------------------: |
-|   1.  | ![](<../../.gitbook/assets/image (20).png>) |                View PDF               |
-|   2.  |  ![](<../../.gitbook/assets/image (8).png>) |                View XML               |
+|   1.  | ![](<../../.gitbook/assets/image (49).png>) |                View PDF               |
+|   2.  |  ![](<../../.gitbook/assets/image (4).png>) |                View XML               |
 |   3.  |                   Item ID                   |          Auto Running number          |
 |   4.  |                 Document No.                |              Document No.             |
 |   5.  |                Document Date                |            Date on Document           |
