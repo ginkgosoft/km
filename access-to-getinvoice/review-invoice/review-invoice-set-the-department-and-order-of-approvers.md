@@ -10,18 +10,18 @@ Administrators can define departments and the order of approvers. All department
 
 [<mark style="color:green;">Column description of Screen Review Invoice</mark>](#user-content-fn-1)[^1]
 
-| ลำดับ |                   คอลัมน์                   |               รายละเอียด              |
-| :---: | :-----------------------------------------: | :-----------------------------------: |
-|   1.  | ![](<../../.gitbook/assets/image (49).png>) |                View PDF               |
-|   2.  |  ![](<../../.gitbook/assets/image (4).png>) |                View XML               |
-|   3.  |                   Item ID                   |          Auto Running number          |
-|   4.  |                 Document No.                |              Document No.             |
-|   5.  |                Document Date                |            Date on Document           |
-|   6.  |                Document Type                | Type of Document refer to RD standard |
-|   7.  |                 Total Amount                |           Amount include VAT          |
-|   8.  |                Generate Date                |        Date/Time of import data       |
-|   9.  |                    Source                   |            Source of input            |
-|  10.  |                Review Status                |        Status of Review Invoice       |
+| ลำดับ |                    คอลัมน์                   |               รายละเอียด              |
+| :---: | :------------------------------------------: | :-----------------------------------: |
+|   1.  |  ![](<../../.gitbook/assets/image (77).png>) |                View PDF               |
+|   2.  |  ![](<../../.gitbook/assets/image (25).png>) |                View XML               |
+|   3.  |                    Item ID                   |          Auto Running number          |
+|   4.  |                 Document No.                 |              Document No.             |
+|   5.  |                 Document Date                |            Date on Document           |
+|   6.  |                 Document Type                | Type of Document refer to RD standard |
+|   7.  |                 Total Amount                 |           Amount include VAT          |
+|   8.  |                 Generate Date                |        Date/Time of import data       |
+|   9.  |                    Source                    |            Source of input            |
+|  10.  |                 Review Status                |        Status of Review Invoice       |
 
 <mark style="color:green;">Column description of Screen Review Invoice</mark>
 

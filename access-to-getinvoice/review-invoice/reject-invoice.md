@@ -2,12 +2,12 @@
 
 The authority who reviews e-invoicing lists can click on“ Reject” or “Reject All” once rejected, the list will be moved to “Rejected” status directly.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>Review Invoice - Reject Selected</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p><em>Review Invoice - Reject Selected</em></p></figcaption></figure>
 
 The confirmation screen will display the list of item for you to reconfirm by clicking on "Reject” or "Cancel” button.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p><em>Review Invoice – Confirm to Reject</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption><p><em>Review Invoice – Confirm to Reject</em></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption><p><em>Review Invoice – Reject All</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption><p><em>Review Invoice – Reject All</em></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p><em>Review Invoice – Rejected Status</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption><p><em>Review Invoice – Rejected Status</em></p></figcaption></figure>
