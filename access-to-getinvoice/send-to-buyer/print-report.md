@@ -7,6 +7,6 @@ description: >-
 
 # Print Report
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Send To Buyer – Order Print Report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Send To Buyer – Order Print Report</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Send to Buyer – Preview Report</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Send to Buyer – Preview Report</p></figcaption></figure>
