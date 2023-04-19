@@ -16,6 +16,6 @@ In unsuccessful case of sending e-invoicing to the Revenue Department. The syste
 
 <figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Send to RD - In case sending RD failed, check Error.</p></figcaption></figure>
 
-You can download both XML and PDF files by clicking on the symbol ![](<../../.gitbook/assets/image (38) (2).png>) ![](<../../.gitbook/assets/image (165).png>) to verify the structure according to the Revenue Department's standards. The system will send the information to the Revenue Department when the user selects an item and clicks the Send to RD button.
+You can download both XML and PDF files by clicking on the symbol ![](<../../.gitbook/assets/image (38) (2).png>) ![](<../../.gitbook/assets/image (310).png>) to verify the structure according to the Revenue Department's standards. The system will send the information to the Revenue Department when the user selects an item and clicks the Send to RD button.
 
 <figure><img src="../../.gitbook/assets/image (78) (2).png" alt=""><figcaption><p>Send to RD - Send the Revenue Department</p></figcaption></figure>

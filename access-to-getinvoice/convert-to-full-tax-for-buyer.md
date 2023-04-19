@@ -8,20 +8,20 @@ _<mark style="color:blue;">Note : Companies that prefer to use this function Mus
 
 _<mark style="color:blue;">Note: The system allows you to convert only 1 time.</mark>_
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p>Convert to Full-Tax (For Buyer)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption><p>Convert to Full-Tax (For Buyer)</p></figcaption></figure>
 
 2\) The screen will display the form for the buyer to fill in personal information, to create their full Tax invoice. Such as Tax ID, Name, Address, Postal Code, Phone No., and Email address. After completing the fields, press the "Next" button to the next step. &#x20;
 
 _<mark style="color:blue;">Note: When issuing a tax invoice for a juristic person, the user must enter a 5-digit branch code.</mark>_
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption><p>Convert to Full-Tax (for Buyer) – Fill in the tax invoice information.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Convert to Full-Tax (for Buyer) – Fill in the tax invoice information.</p></figcaption></figure>
 
 3\)  The screen will repeatedly show the information to verify before submitting the information. Buyer can press the "Back" button to edit on the previous page or press the "Submit" button to confirm processing.
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption><p>Convert to Full-Tax (For Buyer) – Verify the data.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p>Convert to Full-Tax (For Buyer) – Verify the data.</p></figcaption></figure>
 
 4\) The screen will display the completed status at the same time. The system will generate a full tax invoice and proceed with the standard procedure.
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>Convert to Full-Tax (For Buyer) – Submission of complete tax invoice creation information.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Convert to Full-Tax (For Buyer) – Submission of complete tax invoice creation information.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption><p>Convert to Full-Tax – Green icon means completely convert.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>Convert to Full-Tax – Green icon means completely convert.</p></figcaption></figure>

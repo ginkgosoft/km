@@ -2,9 +2,9 @@
 
 You can select the item and click “Upload to zDOX” button. The system will upload and store e-invoicing on zDOX system (https://www.zdox.net) according to the path specified by the user.
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption><p><em>Send to Buyer - Upload and store files in the zDOX system.</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100) (1).png" alt=""><figcaption><p><em>Send to Buyer - Upload and store files in the zDOX system.</em></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption><p><em>List of keeping zDOX system</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102) (1).png" alt=""><figcaption><p><em>List of keeping zDOX system</em></p></figcaption></figure>
 
 In case of successful uploading and storing on zDOX, the system will display the symbol in zDOX column.
 

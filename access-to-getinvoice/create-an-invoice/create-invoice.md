@@ -76,8 +76,8 @@ You can delete existing invoices by clicking on the "Delete" button. The system 
 
 For the menu “Copy Invoice”, the system will copy all details of an invoice. You must edit the invoice number running by yourself before generate to prevent a duplicate invoice. In case of duplication, the system will show as warning status “Duplicate” in red messages on the screen.
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>Manage Invoices – Edit Invoice</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105) (1).png" alt=""><figcaption><p>Manage Invoices – Edit Invoice</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption><p>Manage Invoices – Duplicate Invoice</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126) (1).png" alt=""><figcaption><p>Manage Invoices – Duplicate Invoice</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption><p>Manage Invoices – Manage Invoice Duplicate Status</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116) (1).png" alt=""><figcaption><p>Manage Invoices – Manage Invoice Duplicate Status</p></figcaption></figure>
