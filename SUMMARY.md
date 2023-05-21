@@ -1,26 +1,26 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 ยินดีต้อนสู่ zDOX](README.md)
 
-## Overview
+## ภาพรวมของ zDOX
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 ทำไมเราถึงพัฒนา zDOX ขึ้นมา ?](zdox-1/zdox.md)
+* [✨ ความสามารถของ zDOX](zdox-1/zdox-1.md)
 
-## Product Guides
+## คำแนะนำเกี่ยวกับ zDOX และการนำไปใช้งาน&#x20;
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 ส่งเอกสารให้ผู้อื่นลงนามแบบเร่งรัด](zdox-2/undefined.md)
+* [📎 ต้องทำอย่างไร เมื่อคุณได้รับเอกสารอิเล็กทรอนิกส์จาก zDOX ?](zdox-2/zdox.md)
 
-## Fundamentals
+## การใช้งาน zDOX
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 ตั้งค่าก่อนใช้งาน](zdox-3/undefined/README.md)
+  * [📝 สิทธิ์การเข้าถึงข้อมูล](zdox-3/undefined/undefined.md)
+  * [🧑 การเชิญผู้อื่นเข้าร่วมใช้งาน](zdox-3/undefined/undefined-1.md)
 
 ***
 
-* [คู่มือการใช้งาน zDox - สารบัญ](zdox.md)
+* [คู่มือการใช้งาน zDox - สารบัญ](zdox-4.md)
 
 ## บทที่ 1 - บทนำ
 
