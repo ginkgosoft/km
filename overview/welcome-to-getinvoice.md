@@ -7,7 +7,7 @@ description: We make e-Tax easy for you.
 GetInvoice is a comprehensive solution that enables the generation, delivery, and maintenance of electronic tax invoices and receipts (e-Tax invoice & e-Receipt), in compliance with legal requirements. The electronic tax invoices are created in PDF/A-3 format and generate XML files that meet the ETDA 3-2560 standards." "Our solution is designed to seamlessly integrate with any accounting system or ERP. It automatically organizes and stores documents using the best structure based on the expertise of our team of experts with over 20 years of experience. You can also benefit from a stable system that uploads data to the Revenue Department on your behalf, saving you valuable time.
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**getInvoice tip:** Distribute your effort of doing abbreviate invoice conversion to your customer because they know the most about themselves and have the lowest chance of making mistakes because they tend to type them themselves often.
 {% endhint %}
 
 ## Overview

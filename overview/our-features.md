@@ -1,8 +1,17 @@
+---
+description: >-
+  Our robust product design beyond regulated service provider scope. Because we
+  known what you need and challenges you face, that's why getInvoice comes
+  packed with a tons of comprehensive features.
+---
+
 # ✨ Our Features
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+**getInvoice tip:** with getInvoice, you can track your customer read status, secure send and secure receive under our information security standard services.
 {% endhint %}
+
+Our robust product designed specifically for service providers under IRS oversight. We understand the unique needs and challenges you face, and that's why GetInvoice comes packed with a comprehensive set of features tailored to meet your requirements. From accurate and compliant invoicing to seamless record-keeping, GetInvoice streamlines your billing processes while ensuring adherence to IRS regulations. With features like automated tax calculations, customizable invoice templates, secure data storage, and effortless reporting, we've got everything covered. Trust us to provide you with a solution that addresses what truly matters to you, enabling you to focus on your core business while staying compliant and efficient with GetInvoice.
 
 ## Awesome Feature One
 
