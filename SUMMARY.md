@@ -1,3 +1,4 @@
 # Table of contents
 
-* [List egress IP and CIDR using the oc get hostsubnet command](README.md)
+* [Install using Docker Compose](README.md)
+* [Install alfresco with docker-compose.yml](install-alfresco-with-docker-compose.yml.md)
