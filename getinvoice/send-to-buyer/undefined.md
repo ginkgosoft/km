@@ -16,7 +16,7 @@
 
 กรณีไม่มีข้อมูลอีเมลของลูกค้า ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (130).png>)ที่คอลัมน์ Email
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – แจ้งเตือนกรณีไม่มีอีเมลลูกค้า</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106) (1).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – แจ้งเตือนกรณีไม่มีอีเมลลูกค้า</p></figcaption></figure>
 
 กรณีระบบมีการนำส่งใบกำกับภาษีอิเล็กทรอนิกส์ให้ลูกค้าผ่านทางอีเมลและจัดส่งสำเร็จ ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (120).png>)ที่คอลัมน์ Email พร้อมทั้งแสดงวันที่ เวลาที่ส่ง
 
@@ -32,6 +32,6 @@
 
 กรณีไม่มีอีเมลแก้ไขอีเมลลูกค้าของรายการใบกำกับภาษีอิเล็กทรอนิกส์และใบรับอิเล็กทรอนิกส์ สามารถทำได้โดยคลิกไอคอนแก้ไข![](<../../.gitbook/assets/image (116).png>) ระบบจะแสดงหน้าจอให้ลูกค้าทำการกรอกอีเมล สามารถกรอกได้มากกว่า 1 อีเมล โดยใช้ semi-colon (;) คั่นระหว่างอีเมลโดยไม่ต้องเว้นวรรค จากนั้นกดปุ่ม “Update” ถ้ามีการตั้งส่งอีเมลแบบ Automatically ระบบจะทำการส่งอีเมลให้อัติโนมัติ หรือตั้งส่งอีเมลแบบ Manually ผู้ใช้ต้องทำการกด Send Email ด้วยตนเอง ซึ่งถ้ามีการส่งอีเมลเกิน Quota ระบบจะคิดค่าใช้จ่ายในการส่งอีเมลตามราคาที่กำหนดไว้
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – ไอคอนแก้ไขอีเมลลูกค้า</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101) (1).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – ไอคอนแก้ไขอีเมลลูกค้า</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – แก้ไขอีเมลลูกค้า</p></figcaption></figure>

@@ -14,7 +14,7 @@
 
 **ผู้อนุมัติลำดับที่ 3:** เลือกรายการและกดปุ่ม Approve หรือ Approve All รายการจะไปแสดงที่หน้าจอเมนู Send to Buyer (ดังรูป) และ Send to RD (ดังรูป)
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – แสดงรายการอนุมัติครบตามลำดับที่กำหนด</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104) (1).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – แสดงรายการอนุมัติครบตามลำดับที่กำหนด</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption><p>หน้าจอ Send to RD – แสดงรายการอนุมัติครบตามลำดับที่กำหนด</p></figcaption></figure>
 

@@ -14,7 +14,7 @@
 
 4. กำหนดประเภทของ Tax เลือก TAX Exclusive หรือ TAX Inclusive โดยมี Default เป็น TAX Exclusive ซึ่งสามารถกำหนดได้ที่ Default Setting
 
-<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption><p>หน้าจอ Create Invoice – Price TAX</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption><p>หน้าจอ Create Invoice – Price TAX</p></figcaption></figure>
 
 5. Allowance
 
@@ -26,24 +26,24 @@
 
 เลือกในแถบตามภาพด้านล่าง&#x20;
 
-<figure><img src="../../.gitbook/assets/image (429).png" alt=""><figcaption><p>หน้าจอกำหนดการคำนวณ Allowance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption><p>หน้าจอกำหนดการคำนวณ Allowance</p></figcaption></figure>
 
 5.2 กำหนดประเภทของ Allowance โดยกดที่ Add Allowance จะปรากฎ Pop-up ขึ้นมา ขั้นแรกเลือก Charge หรือ Discount โดยกดเลือกที่ circle bottom หน้าข้อความ (หมายเลข 1) ขั้นที่ 2 เลือกชนิดของค่าธรรมเนียม/ค่าส่วนลด โดยกดที่ปุ่มสามเหลี่ยมที่มุมด้านขวา (หมายเลข 2) ขั้นที่ 3 เลือกรูปแบบของ Charge/Discount ว่าให้เป็นรูปแบบของ Amount (จำนวนเงิน) หรือ Percent (เปอร์เซ็นต์) (หมายเลข 3) และขั้นที่ 4 กรอกจำนวนเงินหรือเปอร์เซ็นต์ ของ Charge/Discount (หมายเลข 4) ซึ่งหัวข้อ Add Allowance ไม่ใช่หัวข้อบังคับ
 
-<figure><img src="../../.gitbook/assets/image (406).png" alt=""><figcaption><p>หน้าจอ Allowance </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption><p>หน้าจอ Allowance </p></figcaption></figure>
 
 หลังจากนั้น กดที่่ปุ่ม Add ตามภาพด้านล่าง
 
-<figure><img src="../../.gitbook/assets/image (422).png" alt=""><figcaption><p>กด Add ของหน้าจอ Allowance </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p>กด Add ของหน้าจอ Allowance </p></figcaption></figure>
 
 ตาราง : Allowance&#x20;
 
 | สัญลักษณ์                                    | คำอธิบาย                                        |
 | -------------------------------------------- | ----------------------------------------------- |
-| ![](<../../.gitbook/assets/image (416).png>) | ค่าธรรมเนียม/ส่วนลด ที่มีมูลค่าเป็นจำนวนเงิน    |
-| ![](<../../.gitbook/assets/image (403).png>) | ค่าธรรมเนียม/ส่วนลด ที่มีมูลค่าเป็นเปอร์เซ็นต์  |
+| ![](<../../.gitbook/assets/image (104).png>) | ค่าธรรมเนียม/ส่วนลด ที่มีมูลค่าเป็นจำนวนเงิน    |
+| ![](<../../.gitbook/assets/image (101).png>) | ค่าธรรมเนียม/ส่วนลด ที่มีมูลค่าเป็นเปอร์เซ็นต์  |
 
-5. ข้อมูล Customer (Buyer) สามารถกรอกคำค้นและเลือกจากข้อมูลที่มีอยู่ใน Settings Buyers ดูรายละเอียดเพิ่มเติมได้ในหัวข้อ [Setting](settings.md) หรือคลิกไอคอน ![](<../../.gitbook/assets/image (64).png>) เพื่อทำการเพิ่มข้อมูล Buyers ใหม่ได้
+6. ข้อมูล Customer (Buyer) สามารถกรอกคำค้นและเลือกจากข้อมูลที่มีอยู่ใน Settings Buyers ดูรายละเอียดเพิ่มเติมได้ในหัวข้อ [Setting](settings.md) หรือคลิกไอคอน ![](<../../.gitbook/assets/image (64).png>) เพื่อทำการเพิ่มข้อมูล Buyers ใหม่ได้
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>หน้าจอ Create Invoice - ข้อมูล Buyer</p></figcaption></figure>
 
