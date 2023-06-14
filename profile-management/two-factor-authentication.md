@@ -8,7 +8,7 @@ Two-Factor Authentication is a method secure that you can identify to access to 
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Google Authenticator - BEGIN SETUP</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Google Authenticator - Scan barcode</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Google Authenticator - Scan barcode</p></figcaption></figure>
 
 2. Click on user log-in and click “Two-Factor Authentication”, the system will display a Two-Factor Authentication screen and QR code to scan or code to manually fill in
 

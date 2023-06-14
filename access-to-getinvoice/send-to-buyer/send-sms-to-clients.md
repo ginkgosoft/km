@@ -26,4 +26,4 @@ You can click “Send All by SMS” button and adjust the SMS summary before sen
 
 On "Send to Buyer" screen, you can check the information by clicking on the PDF symbol or the XML format" by clicking on the XML symbol.
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Send to Buyer - PDF Icon Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption><p>Send to Buyer - PDF Icon Screen</p></figcaption></figure>

@@ -8,4 +8,4 @@ You can easily change your profile picture by clicking on the camera icon. The s
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Profile Picture – Set as profile photo</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Profile Picture – Already selected Profile Picture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Profile Picture – Already selected Profile Picture</p></figcaption></figure>

@@ -4,4 +4,4 @@ The menu will display the total e-invoicing transaction of each month as a usage
 
 <figure><img src="../.gitbook/assets/image (52) (2).png" alt=""><figcaption><p>Bill</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>View Bill</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2) (1).png" alt=""><figcaption><p>View Bill</p></figcaption></figure>

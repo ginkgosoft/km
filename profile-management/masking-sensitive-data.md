@@ -4,4 +4,4 @@ You can control the display of sensitive information, such as the Buyer's name, 
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Marking Sensitive Data</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Masking Sensitive Data screen.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption><p>Masking Sensitive Data screen.</p></figcaption></figure>

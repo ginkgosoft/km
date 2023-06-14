@@ -2,7 +2,7 @@
 
 You can choose to activate the theme in 3 styles: white, blue, and black.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Open Theme</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Open Theme</p></figcaption></figure>
 
 The dark theme display screen.
 
