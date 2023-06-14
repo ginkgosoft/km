@@ -12,4 +12,4 @@
 
 3. กรอกรหัสผ่านใหม่ และยืนยันรหัสผ่านใหม่ คลิกปุ่ม “Change Password”
 
-<figure><img src="../.gitbook/assets/image (402).png" alt=""><figcaption><p>หน้าจอกรอกรหัสผ่านใหม่</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (402) (1).png" alt=""><figcaption><p>หน้าจอกรอกรหัสผ่านใหม่</p></figcaption></figure>

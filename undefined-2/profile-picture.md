@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (415).png" alt=""><figcaption><p>หน้าจอ Profile – คลิกไอคอนกล้องถ่ายรูป</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption><p>Profile Picture – หน้าจอ Select profile photo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (409) (1).png" alt=""><figcaption><p>Profile Picture – หน้าจอ Select profile photo</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (400).png" alt=""><figcaption><p>Profile Picture – Set as profile photo</p></figcaption></figure>
 

@@ -4,4 +4,4 @@
 
 <figure><img src="../.gitbook/assets/image (411).png" alt=""><figcaption><p>เมนู Marking Sensitive Data</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (422).png" alt=""><figcaption><p>เปิดใช้งาน Masking Sensitive Data</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (422) (1).png" alt=""><figcaption><p>เปิดใช้งาน Masking Sensitive Data</p></figcaption></figure>

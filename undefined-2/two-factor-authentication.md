@@ -6,7 +6,7 @@ Two-Factor Authentication คือการยืนยันตัวตนล
 
 <figure><img src="../.gitbook/assets/image (425).png" alt=""><figcaption><p>แอปพลิเคชัน Google Authenticator</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (430).png" alt=""><figcaption><p>Google Authenticator - BEGIN SETUP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (430) (1).png" alt=""><figcaption><p>Google Authenticator - BEGIN SETUP</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (407).png" alt=""><figcaption><p>Google Authenticator - คลิกเมนู Scan barcode</p></figcaption></figure>
 
