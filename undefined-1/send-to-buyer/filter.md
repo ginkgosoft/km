@@ -57,6 +57,6 @@
 
 <mark style="color:purple;">(กรณีไม่มีแผนก หรือ สาขา Filter จะไม่ปรากฎหัวข้อ Department)</mark>
 
-<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Send to buyer - วิธีการเลือกตัวกรอง</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2) (1).png" alt=""><figcaption><p>Send to buyer - วิธีการเลือกตัวกรอง</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Send to buyer - เลือก Department ใน Filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Send to buyer - เลือก Department ใน Filter</p></figcaption></figure>

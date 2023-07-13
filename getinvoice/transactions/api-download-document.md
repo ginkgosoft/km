@@ -13,7 +13,7 @@
 
 1.1 {domain} ตัวอย่างตามภาพ
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>ตัวอย่างภาพ Domain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>ตัวอย่างภาพ Domain</p></figcaption></figure>
 
 1.2 {api\_key}
 

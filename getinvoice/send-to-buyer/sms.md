@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>ตัวอย่างข้อความส่ง SMS</p></figcaption></figure>
 
-กรณีไม่มีข้อมูลเบอร์โทรศัพท์ของลูกค้า ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (11) (1) (1).png>)ที่คอลัมน์ SMS
+กรณีไม่มีข้อมูลเบอร์โทรศัพท์ของลูกค้า ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (11) (1).png>)ที่คอลัมน์ SMS
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – กรณีไม่มีเบอร์โทรศัพท์ของลูกค้า</p></figcaption></figure>
 
@@ -12,7 +12,7 @@
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>หน้าจอ Send to Buyer - ไอคอนแสดงส่ง SMS สำเร็จ</p></figcaption></figure>
 
-กรณีระบบมีการนำส่งใบกำกับภาษีอิเล็กทรอนิกส์หรือใบรับอิเล็กทรอนิกส์ ให้ลูกค้าผ่านทาง SMS และจัดส่งไม่สำเร็จ ระบบจะแสดงสัญลักษณ์![](<../../.gitbook/assets/image (24).png>) ที่คอลัมน์ SMS และแสดงแจ้งเตือน “Invalid telephone number”
+กรณีระบบมีการนำส่งใบกำกับภาษีอิเล็กทรอนิกส์หรือใบรับอิเล็กทรอนิกส์ ให้ลูกค้าผ่านทาง SMS และจัดส่งไม่สำเร็จ ระบบจะแสดงสัญลักษณ์![](<../../.gitbook/assets/image (24) (1).png>) ที่คอลัมน์ SMS และแสดงแจ้งเตือน “Invalid telephone number”
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption><p>หน้าจอ Send to Buyer - ไอคอนแสดงส่ง SMS ไม่สำเร็จ</p></figcaption></figure>
 

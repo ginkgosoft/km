@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption><p>หน้าจอ Send to RD – นำส่งกรมสรรพากรเรียบร้อยแล้ว</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>หน้าจอ Send to RD - กรณีส่ง RD สำเร็จ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>หน้าจอ Send to RD - กรณีส่ง RD สำเร็จ</p></figcaption></figure>
 
 กรณีรายการข้อมูลอิเล็กทรอนิกส์ส่งไปสรรพากรไม่สำเร็จ ระบบจะแสดงไอคอนสามเหลี่ยม ![](<../../.gitbook/assets/image (29).png>) และเมื่อคลิกดูสถานะที่คอลัมน์ Result จะมีรายละเอียดของ Error หรือสามารถดูได้ที่คอลัมน์ Error
 
