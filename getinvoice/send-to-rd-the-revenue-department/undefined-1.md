@@ -4,7 +4,7 @@
 
 _<mark style="color:green;">หมายเหตุ บริษัทสามารถ Don’t Send ได้ จะต้องกำหนดส่งข้อมูลให้สรรพากรแบบ Manually หรือ Schedule เท่านั้น</mark>_
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption><p>หน้าจอ Send to RD – Don’t Send</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55) (1).png" alt=""><figcaption><p>หน้าจอ Send to RD – Don’t Send</p></figcaption></figure>
 
 หลังจากยืนยันเรียบร้อยแล้ว รายการจะมีสถานะ RD Status: Don’t Send
 
