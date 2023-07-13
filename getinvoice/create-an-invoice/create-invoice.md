@@ -53,7 +53,7 @@
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>Create Invoice – ค้นหาหรือกรอกข้อมูล Items</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Create Invoice – เพิ่มข้อมูล Items</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Create Invoice – เพิ่มข้อมูล Items</p></figcaption></figure>
 
 8. ประเภท Debit Note และ Credit Note สามารถกำหนดให้กรอก Old Price และ New Price ได้โดยกำหนดตั้งค่าใน Default Setting ให้เรียบร้อยก่อนสร้าง
 

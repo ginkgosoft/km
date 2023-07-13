@@ -52,3 +52,11 @@
 6\)  Dropdown list ตัวเลือกสำหรับกำหนดค้นหาข้อมูล ได้แก่ Document No., Buyer Name, Email, Telephone และ Source
 
 <figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption><p>Send to Buyer – ตัวเลือกสำหรับกำหนดค้นหาข้อมูล</p></figcaption></figure>
+
+7\) กรองข้อมูลตามสาขา หรือแผนก หากมีบริษัทมีหลายสาขา สามารถกรองข้อมูลตามสาขา หรือ แผนกได้ โดยเลือกที่สัญลักษณ์ <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> จากนั้นเลือกกรอง Department จากนั้นเลือกแผนก หรือ สาขา ที่ต้องการ
+
+<mark style="color:purple;">(กรณีไม่มีแผนก หรือ สาขา Filter จะไม่ปรากฎหัวข้อ Department)</mark>
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Send to buyer - วิธีการเลือกตัวกรอง</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Send to buyer - เลือก Department ใน Filter</p></figcaption></figure>

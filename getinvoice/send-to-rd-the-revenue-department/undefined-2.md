@@ -4,4 +4,4 @@
 
 <figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption><p>หน้าจอ SEND TO RD – พิมพ์รายงาน</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption><p>หน้าจอ SEND TO RD – Preview รายงาน</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61) (1).png" alt=""><figcaption><p>หน้าจอ SEND TO RD – Preview รายงาน</p></figcaption></figure>
