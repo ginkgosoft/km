@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption><p>ตัวอย่าง Export as CSV</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption><p>ตัวอย่าง Export as PDF</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>ตัวอย่าง Export as PDF</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption><p>ตัวอย่าง Export as Excel</p></figcaption></figure>
 

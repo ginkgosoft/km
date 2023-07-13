@@ -12,7 +12,7 @@
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>หน้าจอ Send to Buyer - ไอคอนแสดงส่ง SMS สำเร็จ</p></figcaption></figure>
 
-กรณีระบบมีการนำส่งใบกำกับภาษีอิเล็กทรอนิกส์หรือใบรับอิเล็กทรอนิกส์ ให้ลูกค้าผ่านทาง SMS และจัดส่งไม่สำเร็จ ระบบจะแสดงสัญลักษณ์![](<../../.gitbook/assets/image (24) (1).png>) ที่คอลัมน์ SMS และแสดงแจ้งเตือน “Invalid telephone number”
+กรณีระบบมีการนำส่งใบกำกับภาษีอิเล็กทรอนิกส์หรือใบรับอิเล็กทรอนิกส์ ให้ลูกค้าผ่านทาง SMS และจัดส่งไม่สำเร็จ ระบบจะแสดงสัญลักษณ์![](<../../.gitbook/assets/image (24).png>) ที่คอลัมน์ SMS และแสดงแจ้งเตือน “Invalid telephone number”
 
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption><p>หน้าจอ Send to Buyer - ไอคอนแสดงส่ง SMS ไม่สำเร็จ</p></figcaption></figure>
 

@@ -13,17 +13,17 @@
 
 1.1 {domain} ตัวอย่างตามภาพ
 
-<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>ตัวอย่างภาพ Domain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>ตัวอย่างภาพ Domain</p></figcaption></figure>
 
 1.2 {api\_key}
 
 Log in เข้าสู่ getInvoice จากนั้นเลือกแท็บ Dashboard จากนั้น เลือกที่ "API usage example"&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>ภาพวิธีค้นหา API</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>ภาพวิธีค้นหา API</p></figcaption></figure>
 
 จะปรากฎหน้าต่าง REST API  ให้ท่านคัดลอกข้อมูล X-API-KEY (ตามกรอบสีแดงในภาพ) เพื่อใช้เป็นข้อมูล {api\_key}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>หน้าจอ  REST API  </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>หน้าจอ  REST API  </p></figcaption></figure>
 
 1.3 {transaction\_id}
 
