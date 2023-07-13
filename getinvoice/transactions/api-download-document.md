@@ -23,7 +23,7 @@ Log in เข้าสู่ getInvoice จากนั้นเลือกแ�
 
 จะปรากฎหน้าต่าง REST API  ให้ท่านคัดลอกข้อมูล X-API-KEY (ตามกรอบสีแดงในภาพ) เพื่อใช้เป็นข้อมูล {api\_key}
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>หน้าจอ  REST API  </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>หน้าจอ  REST API  </p></figcaption></figure>
 
 1.3 {transaction\_id}
 

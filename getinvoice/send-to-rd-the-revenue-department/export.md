@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p>ตัวอย่าง Export as PDF</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>ตัวอย่าง Export as Excel</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>ตัวอย่าง Export as Excel</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption><p>ตัวอย่าง Export as JSON</p></figcaption></figure>
 
