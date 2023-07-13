@@ -77,6 +77,8 @@
     * [การกรองข้อมูล (Filter)](undefined-1/transactions/filter.md)
   * [เมนู Tax Report](undefined-1/tax-report/README.md)
     * [การกรองข้อมูล (Filter)](undefined-1/tax-report/filter.md)
+  * [เมนู MAIL & SMS](undefined-1/mail-and-sms/README.md)
+    * [การกรองข้อมูล (Filter)](undefined-1/mail-and-sms/filter.md)
 * [จัดการโปรไฟล์](undefined-2/README.md)
   * [Profile Picture](undefined-2/profile-picture.md)
   * [Profile Name](undefined-2/profile-name.md)
