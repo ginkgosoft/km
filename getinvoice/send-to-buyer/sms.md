@@ -4,9 +4,9 @@
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>ตัวอย่างข้อความส่ง SMS</p></figcaption></figure>
 
-กรณีไม่มีข้อมูลเบอร์โทรศัพท์ของลูกค้า ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (11) (1).png>)ที่คอลัมน์ SMS
+กรณีไม่มีข้อมูลเบอร์โทรศัพท์ของลูกค้า ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (11) (1) (1).png>)ที่คอลัมน์ SMS
 
-<figure><img src="../../.gitbook/assets/image (54) (1).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – กรณีไม่มีเบอร์โทรศัพท์ของลูกค้า</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p>หน้าจอ Send to Buyer – กรณีไม่มีเบอร์โทรศัพท์ของลูกค้า</p></figcaption></figure>
 
 กรณีระบบมีการนำส่งใบกำกับภาษีอิเล็กทรอนิกส์หรือใบรับอิเล็กทรอนิกส์ ให้ลูกค้าผ่านทาง SMS และจัดส่งสำเร็จ ระบบจะแสดงสัญลักษณ์ ![](<../../.gitbook/assets/image (78).png>)ที่คอลัมน์ SMS พร้อมทั้งแสดงวันที่และเวลาส่ง
 
@@ -26,4 +26,4 @@
 
 ที่หน้าจอ Send To Buyer สามารถตรวจสอบข้อมูลในรูปแบบไฟล์ PDF โดยกดที่สัญลักษณ์ PDF หรือสามารถตรวจสอบข้อมูลในรูปแบบไฟล์ XML โดยกดที่สัญลักษณ์ XML
 
-<figure><img src="../../.gitbook/assets/image (57) (1).png" alt=""><figcaption><p>หน้าจอ Send to Buyer - ไอคอนไฟล์ PDF</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>หน้าจอ Send to Buyer - ไอคอนไฟล์ PDF</p></figcaption></figure>

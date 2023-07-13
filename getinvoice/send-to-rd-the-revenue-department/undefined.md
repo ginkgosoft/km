@@ -14,7 +14,7 @@
 
 <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption><p>หน้าจอ Send to RD - กรณีส่ง RD ไม่สำเร็จ</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>หน้าจอ Send to RD - กรณีส่ง RD ไม่สำเร็จ ตรวจสอบ Error</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>หน้าจอ Send to RD - กรณีส่ง RD ไม่สำเร็จ ตรวจสอบ Error</p></figcaption></figure>
 
 ผู้ใช้งานระบบสามารถดาวน์โหลดไฟล์ XML ได้ โดยกดที่สัญลักษณ์ ![](<../../.gitbook/assets/image (1) (1).png>) เพื่อนำไฟล์ XML มาตรวจสอบโครงสร้างตามมาตรฐานกรมสรรพากรได้ และสามารถดาวน์โหลดไฟล์ PDF ได้ โดยกดที่สัญลักษณ์ ![](<../../.gitbook/assets/image (93).png>) เมื่อผู้ใช้งานกดเลือกรายการ แล้วกดปุ่ม Send to RD ระบบจะทำการส่งข้อมูลไปยังกรมสรรพากร
 

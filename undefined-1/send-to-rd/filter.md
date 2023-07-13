@@ -28,10 +28,10 @@
 
 <figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption><p>Send to RD – ตัวเลือกสำหรับกำหนดค้นหาข้อมูล</p></figcaption></figure>
 
-4\) กรองข้อมูลตามสาขา หรือแผนก หากมีบริษัทมีหลายสาขา สามารถกรองข้อมูลตามสาขา หรือ แผนกได้ โดยเลือกที่สัญลักษณ์ <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line"> จากนั้นเลือกกรอง Department จากนั้นเลือกแผนก หรือ สาขา ที่ต้องการ
+4\) กรองข้อมูลตามสาขา หรือแผนก หากมีบริษัทมีหลายสาขา สามารถกรองข้อมูลตามสาขา หรือ แผนกได้ โดยเลือกที่สัญลักษณ์ <img src="../../.gitbook/assets/image (10) (2).png" alt="" data-size="line"> จากนั้นเลือกกรอง Department จากนั้นเลือกแผนก หรือ สาขา ที่ต้องการ
 
 <mark style="color:purple;">(กรณีไม่มีแผนก หรือ สาขา Filter จะไม่ปรากฎหัวข้อ Department)</mark>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Send to RD - วิธีการเลือกตัวกรอง</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Send to RD - วิธีการเลือกตัวกรอง</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Send to RD - เลือก Department ใน Filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Send to RD - เลือก Department ใน Filter</p></figcaption></figure>
