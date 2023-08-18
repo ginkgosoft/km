@@ -1,5 +1,5 @@
-# ข้อมูลภาพรวมของเดือนปัจจุบัน
+# ข้อมูลทั่วไปขององค์กร
 
-แสดงข้อมูลมูลค่า e-Tax Invoice และจำนวน transaction ภายในเดือนปัจจุบันขององค์กร
+แสดงข้อมูลทั่วไปขององค์กรและช่องทางการนำไฟล์เข้าระบบ getInvoice
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption><p>หน้าจอแสดงมูลค่า e-Tax Invoice และจำนวน Transaction</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="563"><figcaption><p>ข้อมูลทั่วไปขององค์กรและช่องทางการนำไฟล์เข้าระบบ getInvoice</p></figcaption></figure>
